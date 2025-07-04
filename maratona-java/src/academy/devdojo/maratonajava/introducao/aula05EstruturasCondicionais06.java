@@ -40,6 +40,7 @@ public class aula05EstruturasCondicionais06 {
                 System.out.println("Digite um numero entre 1 á 7");
                 break;
         }
+        scanner.close();
 
         // atualizacao
         /*
