@@ -1,11 +1,13 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula05EstruturasCondicionais {
+public class Aula05EstruturasCondicionais01 {
     public static void main(String[] args) {
         int idade = 10;
         boolean isAutorizacao = idade >= 18;
         if (isAutorizacao) {
             System.out.println("Voce pode comprar bebidas alcolica");
+        }else{
+            System.out.println("Voce nao pode comprar bebidas alcolicas");
         }
         // !
         if(!isAutorizacao){
