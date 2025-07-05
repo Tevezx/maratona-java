@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 import java.util.Scanner;
 
-public class exerciciosWhile {
+public class ExerciciosWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -17,5 +17,6 @@ public class exerciciosWhile {
             }
         }
         System.out.println("Acesso permitido");
+        scanner.close();
     }
 }

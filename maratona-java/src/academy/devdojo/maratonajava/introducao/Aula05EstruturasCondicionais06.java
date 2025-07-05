@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.introducao;
 //importando a bibliteca para utilizar scanner e permitir a entrada de dados pelo usuario
 import java.util.Scanner;
 
-public class aula05EstruturasCondicionais06 {
+public class Aula05EstruturasCondicionais06 {
     public static void main(String[] args) {
 
         //Inicializando o Scanner

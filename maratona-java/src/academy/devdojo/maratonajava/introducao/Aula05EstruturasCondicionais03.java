@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class aula05EstruturasCondicionais03 {
+public class Aula05EstruturasCondicionais03 {
     public static void main(String[] args) {
         //Doar se o salario for maior que 5000
         double salario = 6000;

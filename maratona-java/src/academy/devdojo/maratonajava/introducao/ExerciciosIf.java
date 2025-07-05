@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 import java.util.Scanner;
 
-public class exerciciosIf {
+public class ExerciciosIf {
     public static void main(String[] args) {
         // Numero inteiro (positivo ou negativo)
 

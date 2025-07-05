@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class aula06EstruturasRepeticao02 {
+public class Aula06EstruturasRepeticao02 {
     public static void main(String[] args) {
         // Imprima todos os numeros pares até 1000000
         for (int i = 0; i <= 100000; i++){

@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.introducao;
 import java.util.Scanner;
 
 
-public class exerciciosFor {
+public class ExerciciosFor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //Numeros Primos
