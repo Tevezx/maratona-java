@@ -15,6 +15,8 @@ public class ExerciciosArrays {
          */
 
         Scanner scanner = new Scanner(System.in);
+
+        /*
         int [] numeros = new int[10];
         int maior = Integer.MIN_VALUE;
 
@@ -28,6 +30,12 @@ public class ExerciciosArrays {
         }
         System.out.println("Numero maior: "+maior);
         scanner.close();
+         */
+
+        String [] nomes = new String[10];
+        int [] produtos = new int[10];
+
+
 
     }
 }

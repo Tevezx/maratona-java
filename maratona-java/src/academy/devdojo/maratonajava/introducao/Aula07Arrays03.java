@@ -12,6 +12,8 @@ public class Aula07Arrays03 {
         }
         */
         //
+
+        //for each - basicamente ele percorre toda a array sem precisar do for normal
         for (int num : numeros) {
             System.out.println(num);
         }
